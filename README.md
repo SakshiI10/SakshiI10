@@ -26,18 +26,3 @@ Let's build scalable applications, intelligent systems, and innovative software 
 ![](https://github-readme-stats.vercel.app/api?username=SakshiI10&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SakshiI10&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiI10&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 🚀 Areas of Interest
-- Core Java
-- Advanced Java
-- Spring Boot
-- Python Programming
-- Machine Learning
-- Computer Vision
-- Oracle Database
-- Backend Development
-
-### ✍️ Developer Quote
-> "Building intelligent software solutions with Java, Spring Boot, Python, Machine Learning, and Computer Vision."
-
----
