@@ -1,6 +1,6 @@
 # 💫 About Me:
 ☕ Advanced Java Developer<br>
-🌱 Spring Boot Developer<br>
+🌱 Spring Boot<br>
 🐍 Python Programmer<br>
 🧠 Machine Learning Practitioner<br>
 👁️ Computer Vision Developer<br>
