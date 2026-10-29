@@ -1,28 +1,71 @@
-# 💫 About Me:
-☕ Advanced Java Developer<br>
-🌱 Spring Boot<br>
-🐍 Python Programmer<br>
-🧠 Machine Learning Practitioner<br>
-👁️ Computer Vision Developer<br>
-🔍 Problem Solver & Continuous Learner<br><br>
+<div align="center">
 
-Let's build scalable applications, intelligent systems, and innovative software solutions.<br>
-🚀 Turning ideas into code and data into insights. 🚀
+# 👋 Hi, I'm Sakshi Ingole
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshiingole/)
+### 💻 Full Stack Java Developer | 🤖 Spring AI | ⚙️ Microservices
 
-# 💻 Tech Stack:
+Building scalable applications and AI-powered solutions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshiingole/)
+
+</div>
+
+
+## About Me
+- 💻 Full Stack Java Developer focused on building reliable Java-based applications.
+- ⚙️ Working with **Spring Boot, Microservices, and Spring AI**.
+- 🤖 Working on AI-powered applications using **Retrieval-Augmented Generation (RAG)** and LLMs.
+- 🚀 Passionate about clean code, scalable backend systems, and continuous learning.
+<br><br>
+## Impact & Highlights
+- 🏦 **Banking Returns Automation Tool** — Worked on a banking-domain product built using **Spring Boot** to automate return-related processes.
+- 📦 **Data Archival & Retrieval Tool** — Worked on a product focused on efficient data archival and retrieval.
+<br><br>
+## Achievement
+🌟 **RISING STAR AWARD**  
+Recognized for my commitment, dedication, and efforts before completing my first year.
+<br><br>
+
+## AI & Engineering Stack
+
+### 🤖 AI & Generative AI
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-0F766E?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-D97706?style=for-the-badge)
+
+### ☕ Java Core
 ![Core Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Advanced Java](https://img.shields.io/badge/Advanced%20Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge)
+![Collections](https://img.shields.io/badge/Collections-4479A1?style=for-the-badge)
+![Exception Handling](https://img.shields.io/badge/Exception%20Handling-795548?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/Multithreading-8E44AD?style=for-the-badge)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SakshiI10&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SakshiI10&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiI10&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### ⚙️ Java Backend
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge)
+
+### 🧪 Testing
+![JUnit 5+](https://img.shields.io/badge/JUnit%205%2B-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br><br>
+
+## GitHub Pulse
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SakshiI10&theme=tokyonight&hide_border=true)
+
+
+✨ *Building reliable software, exploring intelligent systems, and turning ideas into impactful solutions.*
