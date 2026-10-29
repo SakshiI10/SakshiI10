@@ -12,14 +12,14 @@ Building scalable applications and AI-powered solutions.
 
 
 ## About Me
-- 💻 Full Stack Java Developer focused on building reliable Java-based applications.
-- ⚙️ Working with **Spring Boot, Microservices, and Spring AI**.
-- 🤖 Working on AI-powered applications using **Retrieval-Augmented Generation (RAG)** and LLMs.
-- 🚀 Passionate about clean code, scalable backend systems, and continuous learning.
+- Full Stack Java Developer focused on building reliable Java-based applications.
+- Working with **Spring Boot, Microservices, and Spring AI**.
+- Working on AI-powered applications using **Retrieval-Augmented Generation (RAG)** and LLMs.
+- Passionate about clean code, scalable backend systems, and continuous learning.
 <br><br>
 ## Impact & Highlights
-- 🏦 **Banking Returns Automation Tool** — Worked on a banking-domain product built using **Spring Boot** to automate return-related processes.
-- 📦 **Data Archival & Retrieval Tool** — Worked on a product focused on efficient data archival and retrieval.
+- **Banking Returns Automation Tool** — Worked on a banking-domain product built using **Spring Boot** to automate return-related processes.
+- **Data Archival & Retrieval Tool** — Worked on a product focused on efficient data archival and retrieval.
 <br><br>
 ## Achievement
 🌟 **RISING STAR AWARD**  
